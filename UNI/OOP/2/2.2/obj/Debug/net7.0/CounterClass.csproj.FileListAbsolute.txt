@@ -1,0 +1,28 @@
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/bin/Debug/net7.0/CounterClass
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/bin/Debug/net7.0/CounterClass.deps.json
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/bin/Debug/net7.0/CounterClass.runtimeconfig.json
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/bin/Debug/net7.0/CounterClass.dll
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/bin/Debug/net7.0/CounterClass.pdb
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.AssemblyInfoInputs.cache
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.AssemblyInfo.cs
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.csproj.CoreCompileInputs.cache
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.dll
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/refint/CounterClass.dll
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.pdb
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/CounterClass.genruntimeconfig.cache
+/Users/ash/Desktop/UNI/OOP/2.2/2.1/obj/Debug/net7.0/ref/CounterClass.dll
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/bin/Debug/net7.0/CounterClass
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/bin/Debug/net7.0/CounterClass.deps.json
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/bin/Debug/net7.0/CounterClass.runtimeconfig.json
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/bin/Debug/net7.0/CounterClass.dll
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/bin/Debug/net7.0/CounterClass.pdb
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.AssemblyInfoInputs.cache
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.AssemblyInfo.cs
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.csproj.CoreCompileInputs.cache
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.dll
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/refint/CounterClass.dll
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.pdb
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/CounterClass.genruntimeconfig.cache
+/Users/ash/Desktop/progress Track/UNI/OOP/2/2.2/obj/Debug/net7.0/ref/CounterClass.dll

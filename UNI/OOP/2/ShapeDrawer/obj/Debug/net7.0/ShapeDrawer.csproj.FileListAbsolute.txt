@@ -1,0 +1,14 @@
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.deps.json
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.runtimeconfig.json
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.dll
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/bin/Debug/net7.0/ShapeDrawer.pdb
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.AssemblyInfo.cs
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.dll
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/refint/ShapeDrawer.dll
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.pdb
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
+/Users/ash/Desktop/UNI/OOP/2/ShapeDrawer/obj/Debug/net7.0/ref/ShapeDrawer.dll

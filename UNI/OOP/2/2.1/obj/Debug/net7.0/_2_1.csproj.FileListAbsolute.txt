@@ -1,0 +1,14 @@
+/Users/ash/Desktop/UNI/OOP/2/2.1/bin/Debug/net7.0/_2_1
+/Users/ash/Desktop/UNI/OOP/2/2.1/bin/Debug/net7.0/_2_1.deps.json
+/Users/ash/Desktop/UNI/OOP/2/2.1/bin/Debug/net7.0/_2_1.runtimeconfig.json
+/Users/ash/Desktop/UNI/OOP/2/2.1/bin/Debug/net7.0/_2_1.dll
+/Users/ash/Desktop/UNI/OOP/2/2.1/bin/Debug/net7.0/_2_1.pdb
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.AssemblyInfoInputs.cache
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.AssemblyInfo.cs
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.csproj.CoreCompileInputs.cache
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.dll
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/refint/_2_1.dll
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.pdb
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/_2_1.genruntimeconfig.cache
+/Users/ash/Desktop/UNI/OOP/2/2.1/obj/Debug/net7.0/ref/_2_1.dll

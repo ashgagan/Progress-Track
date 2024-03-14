@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+	<meta name="description"	content="Data Visualisation Exercise 2"/>
+	<meta name="keywords"		  content="HTML, CSS"/>
+	<meta name="author"			  content="Gagan"/>
+	<title>Task 2.4 Charts using csv</title>
+    <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
+    <script src = "2.4.1.js"></script>
+</head>
+<body>
+    <h2>Charts</h2>
+    <h3>2019</h3>
+    <p id="chart1"></p>
+
+    <h3>2021</h3>
+
+    <p id="chart2"></p>
+
+<footer style="color:gray">COS30045 Data Visualisation<br>
+        Gagan</footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="description"	content="Data Visualisation Exercise 2"/>
+	<meta name="keywords"		  content="HTML, CSS"/>
+	<meta name="author"			  content="Gagan"/>
+	<title>Task 2.4 Charts using csv</title>
